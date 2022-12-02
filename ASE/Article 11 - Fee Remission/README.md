@@ -1,50 +1,39 @@
-This is an example README based on Article 1 - Access Needs.
+**UAW Proposal 1**
 
+1. Fees Remitted:
+- UAW proposed that the UC should remit all tuition and fees for eligible ASEs.
 
-Please document the major points from Proposal 1, any major proposals (mini-packages, splitting or merging of articles, etc), and then the most recent proposal (including article date). 
+2. Eligibility:
+- UAW removed the exclusion of those in self-supporting programs and made them explicitly eligible.
+- UAW removed the restrictions on undergraduate eligibility to 2 specific titles and made all undergraduate ASEs eligible.
 
+**UC Proposal 1**
 
-If you have questions, please contact Jill (jmarz001@ucr.edu) or Robbie (rediaz111@gmail.com)
+1. Fees Remitted:
+- UC returned all existing language on partial fee remission, but raised the coverage of campus fees to $200 per quarter or $300 per semester (up from $100/$150).
 
----
+2. Eligibility:
+- UC returned the self-supporting programs exclusion.
+- UC returned the undergraduate restrictions.
 
-**Proposal 1**
+**UC Proposal 2**
 
-A. General Provisions
-- Right to an accessible workplace
-- Workspace should be fully accessible, including all technology and software that GSRs use to work
-- All buildings that GSRs are required to work in are fully accessible
-- Supervisors will be trained on how to provide accommodations
-- Training will be jointly developed by a committee chosen by UC and UAW with membership spots reserved for disabled GSRs
-- For internal deadlines, GSR or Union Rep will meet with appropriate University rep to establish a modified and flexible timeline and to determine which resources are needed to meet a GSR's access needs
-- For external deadlines, GSR or Union Rep will meet with appropriate University rep to establish personalized timeline and to determine which resources are needed to meet a GSR's access needs
-- University will provide funding to cover GSR's acess needs
+1. Fees Remitted:
+- UC changed the $200/$300 campus fee remission to 100% campus fee coverage.
 
-B. Collaborative Process
-- GSR has a right to a Union Rep Advocate during the collaborative process, and the process shall occur as soon as practicable and no later than 2 weeks following the initial request.
-- Options to meet access needs may include: assistive devices, modification of existing facilities; addition of physical accessibility measures to buildings; restructuring the job; online remote work; and paid leaves of absence with continued access to healthcare benefits.
-- GSR or Union Rep and appropriate University Rep shall jointly decide which measures will be implemented.
-- University shall continue to provide compensation and benefits to GSR throughout the collaborative process
+**UAW Proposal 2**
 
-C. Joint Labor Management Committee
-- Parties will meet on periodic basis to discuss issues arising from this article.
-- Either party may request a meeting at either a local campus level, or at a system-wide or semi-system-wide level with appropriate accessibility.
-- GSRs serving on the Committee shall be provided release time for attending the meeting.
-- Parties may invite subject matter experts to attend the meeting.
+1. Fees Remitted:
+- UAW again proposed that UC should remit all tuition and fees.
 
-**Proposal 6**
-- This mini-package splits Article Access Needs into Article Access Needs and Article Reasonable Accommodation.
+2. Eligibility:
+- UAW accepted the UC's proposed undergraduate eligibility restrictions, but returned the inclusion of those in self-supporting programs.
 
+**UAW Proposal 3**
 
-**Proposal 10** - last update to Article Access Needs on 10/13/2022. 
-- This article separates A.2 Workspace Accessibility and A.3 Supervisor Training from Proposal 1. 
-- A.4 Internal and External Deadlines from Proposal 1 was struck. 
-- All other sections from Proposal 1 are now in Article Reasonable Accommodations.
+1. Fees Remitted:
+- UAW accepted UC's proposed Partial Fee language and 100% campus fee coverage.
+- UAW added a clause proposing full remission of Non-Resident Supplemental Tuition.
 
-
-**Proposal 15** - last update to Article Reasonable Accommodation on 10/31/2022. This proposal has been TA'd.
-- B. Medical Documentation was added.
-- B. The Collaborative Process is now C. The Interactive Process
-  - Centralized funding was struck.
-- C. Joint Labor Management Committee was struck.
-- D. Temporary Work Adjustment was introduced.
+2. Eligibility:
+- UAW accepted UC's proposed language on eligibility (same as existing contract).
