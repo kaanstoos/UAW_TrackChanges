@@ -1,50 +1,57 @@
-This is an example README based on Article 1 - Access Needs.
+**UAW Proposal 1**
 
+1. Affirmative Action and Diversity:
+- UAW removed the affirmative action programs from UC's exclusive rights to manage and added a new clause stating that such programs require action by all stakeholders and thus the Univeristy's exlusive right is limited by other articles in the contract.
 
-Please document the major points from Proposal 1, any major proposals (mini-packages, splitting or merging of articles, etc), and then the most recent proposal (including article date). 
+2. Safety and Order:
+- UAW removed the UC's exlusive right to set, maintain, and enforce standards of "conduct, order, and safety" and instead added a new clause stating that the UC's right to enforce campus safety is limited by other articles in the contract.
 
+3. Subcontracting:
+- UAW removed the UC's exclusive right to subcontract operations and added a clause prohibiting the UC from subcontracting work in lieu of assigning it to existing employees or expanding employment opportunities with scope of current contracts.
 
-If you have questions, please contact Jill (jmarz001@ucr.edu) or Robbie (rediaz111@gmail.com)
+**UC Proposal 1 - Comprehensive Package**
 
----
+- UC reformatted the first clause to make it a numbered list rather than a paragraph, and reordered many of the items within that list.
 
-**Proposal 1**
+1. Affirmative Action:
+- UC removed the separate clause on this, but did not return it as an exclusive right.
 
-A. General Provisions
-- Right to an accessible workplace
-- Workspace should be fully accessible, including all technology and software that GSRs use to work
-- All buildings that GSRs are required to work in are fully accessible
-- Supervisors will be trained on how to provide accommodations
-- Training will be jointly developed by a committee chosen by UC and UAW with membership spots reserved for disabled GSRs
-- For internal deadlines, GSR or Union Rep will meet with appropriate University rep to establish a modified and flexible timeline and to determine which resources are needed to meet a GSR's access needs
-- For external deadlines, GSR or Union Rep will meet with appropriate University rep to establish personalized timeline and to determine which resources are needed to meet a GSR's access needs
-- University will provide funding to cover GSR's acess needs
+Safety and Order:
+- UC returned the original exclusive right to "establish, maintain, modify and or enforce standards of workplace performance, conduct, order and safety" and removed the separate clause on campus safety.
 
-B. Collaborative Process
-- GSR has a right to a Union Rep Advocate during the collaborative process, and the process shall occur as soon as practicable and no later than 2 weeks following the initial request.
-- Options to meet access needs may include: assistive devices, modification of existing facilities; addition of physical accessibility measures to buildings; restructuring the job; online remote work; and paid leaves of absence with continued access to healthcare benefits.
-- GSR or Union Rep and appropriate University Rep shall jointly decide which measures will be implemented.
-- University shall continue to provide compensation and benefits to GSR throughout the collaborative process
+3. Subcontracting:
+- UC returned the exclusive right to subcontract and removed the separate clause on it.
 
-C. Joint Labor Management Committee
-- Parties will meet on periodic basis to discuss issues arising from this article.
-- Either party may request a meeting at either a local campus level, or at a system-wide or semi-system-wide level with appropriate accessibility.
-- GSRs serving on the Committee shall be provided release time for attending the meeting.
-- Parties may invite subject matter experts to attend the meeting.
+4. Other Exclusive Rights Added:
+- UC added right to establish, direct, and control the University's organizational structure and operations.
+- UC added right to "recruit, appoint, reappoint, not reappoint, and transfer unit members and to determine and modify the size and composition of the work force".
+- UC added right to "introduce new or improved methods" and "programs".
+- UC split existing right to "to assign work locations" into "determine the work location or relocation, reorganization, or discontinuance of operations" and "assign ASE’s individual work locations".
+- UC added right to "determine and modify job qualifications, requirements, classifications, and descriptions".
+- UC added to the right to assign ASEs specifying that it includes the right "to direct, assign, train, and otherwise supervise unit employees".
+- UC added to the dismissal clause the right to "establish and modify standards of workplace conduct".
+- UC added right to "establish, maintain, modify and or enforce standards of workplace performance, conduct, order and safety".
+- UC added "policies and safety procedures" to the right to establish rules and regulations.
+- UC added all of these new exclusive rights -
+"18. to determine and manage campus housing pursuant to University policies;
+19. to determine cost and coverage of student benefits including health, dental, vision, and other medical insurance and prescription drug policies;
+20. to select all insurance carriers and to change carriers from time to time;
+21. to investigate and determine matters of sexual harassment, discrimination and personal misconduct;
+22. or to subcontract all or any portion of any operations;
+23. and to exercise sole authority on all decisions involving academic matters."
 
-**Proposal 6**
-- This mini-package splits Article Access Needs into Article Access Needs and Article Reasonable Accommodation.
+**UAW Proposal 2 - Comprehensive Package**
 
+Note: this article of the comprehensive package appears to have mistakenly copied over the GSR version. There are several clauses added which are not relevant to ASEs, and the entire article refers to GSRs instead of ASEs. Ignoring these differences, UAW proposed the following changes:
 
-**Proposal 10** - last update to Article Access Needs on 10/13/2022. 
-- This article separates A.2 Workspace Accessibility and A.3 Supervisor Training from Proposal 1. 
-- A.4 Internal and External Deadlines from Proposal 1 was struck. 
-- All other sections from Proposal 1 are now in Article Reasonable Accommodations.
+- UAW slightly modified the introductory wording to make the modification of rights in other parts of the Agreement less restrictive.
+- UAW reordered many of the items in the exclusive rights list.
 
+1. New Exclusive Rights:
+- UAW modified the UC-added right to determine and manage campus housing to say: "To determine and modify policies and financial costs and charges associated with student University housing; to determine and manage campus housing pursuant to University policies."
 
-**Proposal 15** - last update to Article Reasonable Accommodation on 10/31/2022. This proposal has been TA'd.
-- B. Medical Documentation was added.
-- B. The Collaborative Process is now C. The Interactive Process
-  - Centralized funding was struck.
-- C. Joint Labor Management Committee was struck.
-- D. Temporary Work Adjustment was introduced.
+2. Subcontracting:
+- UAW removed the right to subcontract work (note: this may be because this is the GSR version).
+
+3. Academic Matters:
+- UAW changed UC sole discretion over financial aid to "Federal and State Financial Aid".
